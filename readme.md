@@ -2,7 +2,8 @@
 
 subscribe to my youtube channel 
 
-'''javascript
-    console.log('hello world);
+```python
 
-'''
+    print('hello world);
+
+```
